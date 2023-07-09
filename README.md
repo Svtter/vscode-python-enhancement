@@ -1,11 +1,11 @@
-# python-module README
+# Vscode Python Enhancement
 
-This is the README for your extension "python-module". After writing up a brief description, we recommend including the following sections.
+This extension is created for making python development easier.
 
-## Attention
+## For Developer
 
-- Run `npm run compile` first.
-
+- `git clone` this project.
+- **Attention**, when debuging this extension, run `npm run compile` first.
 
 ## Features
 
