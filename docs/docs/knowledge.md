@@ -6,6 +6,10 @@
 
 - [UX guideline](https://code.visualstudio.com/api/ux-guidelines/overview)
 
+### attach to chrome
+
+TODO
+
 ## Typescript
 
 ```ts
