@@ -7,6 +7,10 @@ This extension is created for making python development easier.
 - `git clone` this project.
 - **Attention**, when debuging this extension, run `npm run compile` first.
 
+---
+
+> wait for update.
+
 ## Features
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
